@@ -54,7 +54,7 @@ smx2b@turing-116:~$ apt install -y php-fpm php-common php-mbstring php-xmlrpc ph
 ```console
 smx2b@turing-116:~$ systemctl restart apache2
 ```
-RECORDAR SER ROOT
+- RECORDAR SER ROOT
 
 ### Configuracion MySQL
 #### Accedemos a la consola de MySQL
