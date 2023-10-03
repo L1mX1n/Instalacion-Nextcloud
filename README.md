@@ -104,7 +104,7 @@ chmod -R 775 .
 chown -R root:www-data .
 ```
 ## Activar visibilidad de la web
-Para hacer visible la web, tendremos que modificar algunos parametros en el archivo vagrantfile.
+Para hacer visible la web, tendremos que modificar algunos parametros en el archivo `vagrantfile`.
 ```console
 vi vagrantfile
 ```
