@@ -22,8 +22,8 @@ smx2b@turing-116:~$ vagrant ssh
 smx2b@turing-116:~$ ll /vagrant
 ```
 ### Otros comandos:
-`vagrant status`: Nos muestra informacion sobre el estado de las MVs.
-`vagrant halt`: Parar las MVs
-`vagrant suspend`: Suspender las MVs
-`vagrant up`: Encender las MVs
-`vagrant destroy`: Borrar las MVs
+- `vagrant status`: Nos muestra informacion sobre el estado de las MVs.
+- `vagrant halt`: Parar las MVs
+- `vagrant suspend`: Suspender las MVs
+- `vagrant up`: Encender las MVs
+- `vagrant destroy`: Borrar las MVs
