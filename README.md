@@ -29,5 +29,5 @@ smx2b@turing-116:~$ ll /vagrant
 - `vagrant destroy`: Borrar las MVs
 
 ## Instalacion y configuracion de aplicaciones web
-Para instalar una aplicacion web, necesitamos su codigo fuente y traerlo al directorio de nuestro servidor de aplicaciones, en este caso apache2. Cuanto instalas apache2 se crea una carpeta en `/var/www/html`. Si llevamos nuestra aplicacion al directorio '/var/www/html' tendremos acceso a nuestra aplicacion con la direccion `http://localhost`.
+Para instalar una aplicacion web, necesitamos su codigo fuente y traerlo al directorio de nuestro servidor de aplicaciones, en este caso apache2. Cuanto instalas apache2 se crea una carpeta en `/var/www/html`. Si llevamos nuestra aplicacion al directorio `/var/www/html` tendremos acceso a nuestra aplicacion con la direccion `http://localhost`.
 
