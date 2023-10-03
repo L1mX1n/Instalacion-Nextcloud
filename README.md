@@ -14,7 +14,7 @@ smx2b@turing-116:~$ ll
 
 Una vez creado, levantamos la infraestructura con el siguiente comando y parametro: `vagrant up` `--provider=virtualbox`.
 ```console
-vagrant up --provider=virtualbox
+smx2b@turing-116:~$ vagrant up --provider=virtualbox
 ```
 Una vez montado ya podremos usar `ssh`, para entrar a la MV que ha montado el comando anterior.
 ```console
