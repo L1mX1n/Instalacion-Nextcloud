@@ -87,7 +87,7 @@ smx2b@turing-116:~$ mysql -u usuario -p
 #### Mover archivo del servidor en la nube (Nextcloud)
 Vamos a la pagina oficial y nos descargamos el `.zip` del servidor en la nube. Copia y pega el `.zip` en el directorio que hemos creado al principio del todo y ejecutamos este comando:
 ```console
-smx2b@turing-116:~$ mv /vagrant/tuarchivo.zip /var/www/html/
+smx2b@turing-116:~$ mv /vagrant/nextcloud.zip /var/www/html/
 ```
 #### Descomprimir el .zip
 Una vez hecho todo esto, utilizaremos el siguiente comando:
